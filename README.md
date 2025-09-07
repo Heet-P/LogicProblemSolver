@@ -31,7 +31,9 @@
   ```
   
   **Conclusion:**
-  ``` ~Q ```
+  ``` 
+  ~Q
+  ```
 
 **Result:**
 - Truth table shows validity/invalidity.
